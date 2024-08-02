@@ -1,0 +1,113 @@
+﻿  main.cpp
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(27,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(83,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(87,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(91,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(95,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(99,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(103,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(107,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(111,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,68): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,68): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,68): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,68): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,68): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,46): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,46): warning C4244:         with
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,46): warning C4244:         [
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,46): warning C4244:             _Ty=int
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(115,46): warning C4244:         ]
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(127,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(131,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(138,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(142,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(149,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(153,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(160,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(164,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(177,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(177,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(267,46): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(267,41): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(282,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(282,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(301,48): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(348,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(348,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(356,38): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\tmpSFML\main.cpp(371,48): warning C4305: аргумент: усечение из "double" в "float"
+  LINK : не найден или не выполнена сборка C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\x64\Debug\tmpSFML.exe при последней инкрементной компоновке; выполняется полная компоновка
+  tmpSFML.vcxproj -> C:\Users\dlyad\OneDrive\Документы\GitHub\impact-game-for-hackathon\x64\Debug\tmpSFML.exe
